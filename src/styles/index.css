@@ -745,27 +745,27 @@ img {
 }
 
 .social--facebook {
-  background-image: url("https://cdn.rawgit.com/encharm/Font-Awesome-SVG-PNG/master/black/svg/facebook-f.svg");
+  background-image: url("https://www.datocms-assets.com/27318/1588761647-facebook.svg");
 }
 
 .social--twitter {
-  background-image: url("https://cdn.rawgit.com/encharm/Font-Awesome-SVG-PNG/master/black/svg/twitter.svg");
+  background-image: url("https://www.datocms-assets.com/27318/1588761646-twitter.svg");
 }
 
 .social--instagram {
-  background-image: url("https://cdn.rawgit.com/encharm/Font-Awesome-SVG-PNG/master/black/svg/instagram.svg");
+  background-image: url("https://www.datocms-assets.com/27318/1588761640-instagram.svg");
 }
 
 .social--email {
-  background-image: url("https://cdn.rawgit.com/encharm/Font-Awesome-SVG-PNG/master/black/svg/envelope.svg");
+  background-image: url("https://www.datocms-assets.com/27318/1588761642-envelope.svg");
 }
 
 .social--linkedin {
-  background-image: url("https://github.com/ivanvotti/font-awesome-svg/blob/master/SVG/linkedin.svg");
+  background-image: url("https://www.datocms-assets.com/27318/1588761648-linkedin.svg");
 }
 
 .social--github {
-  background-image: url("https://github.com/ivanvotti/font-awesome-svg/blob/master/SVG/github.svg");
+  background-image: url("https://www.datocms-assets.com/27318/1588761644-github.svg");
 }
 
 @media screen and (min-width: 900px) {
